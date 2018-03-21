@@ -1,0 +1,3 @@
+Intent merupakan sebuah jembatan yang menghubungkan satu activity dengan activity lainnya.
+
+Intent juga merupakan sebuah objek yang memungkinkan activity untuk berkomunikasi dengan activity lainnya 
