@@ -1,0 +1,17 @@
+Link referensi/tutorial :
+
+https://www.petanikode.com/java-oop-inheritance/
+https://www.twoh.co/2017/01/05/belajar-memahami-konsep-activity-dan-intent-di-android/
+https://www.petanikode.com/android-activity/
+https://www.youtube.com/watch?v=juKN_tiUcuc
+https://www.dumetschool.com/blog/Belajar-Membuat-Intent-di-Android
+https://diandeveloper.wordpress.com/2013/12/15/shared-preferences/
+
+Eror :
+
+>intent
+- eror ketika pindah ke activity ke2
+solusi :
+pada manifest > androidManifest.xml belum terdapat activity unutk layout ke2 sehingga harus dibuat kodingan untuk activity ke2
+
+ 
