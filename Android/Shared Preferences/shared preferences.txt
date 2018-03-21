@@ -1,0 +1,2 @@
+Shared preferences merupakan media penyimpanan data primitif pada file internal dalam bentuk key.
+Shared preferences dapat menyimpan data - data yang paling sederhana seperti biasa diterapkan ketika menyimpan id dan password ketika login.
