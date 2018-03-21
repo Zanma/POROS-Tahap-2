@@ -1,4 +1,0 @@
-Activity merupakan sebuah halaman pada android tempat kita bisa mengisi dengan tombol - tombol menu ataupun text yang ingin kita tampilkan dalam aplikasi yang ingin kita buat.
-Activity digunkan untuk melakukan suatu aksi tertentu, misal terdapat activity yang berisi menu login yang akan digunakan sebagai tempat user untuk login. 
-lalu jika user selesai login akan muncul tampilan baru yang berisi activity baru lagi. 
-Setiap kita ingin mengganti layar pada android kita maka kita akan berganti activity.
